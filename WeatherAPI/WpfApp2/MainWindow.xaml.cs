@@ -6,7 +6,6 @@ using WpfApp2.Model;
 
 namespace WpfApp2
 {
- 
     public partial class MainWindow : Window
     {
         public MainWindow()
